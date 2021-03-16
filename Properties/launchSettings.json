@@ -10,6 +10,7 @@
   },
   "profiles": {
     "IIS Express": {
+      "applicationUrl": "http://localhost:29118",
       "commandName": "IISExpress",
       "launchBrowser": true,
       "launchUrl": "swagger",
